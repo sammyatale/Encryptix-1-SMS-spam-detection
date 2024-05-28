@@ -34,7 +34,7 @@ pip install -r requirements.txt
 Run the Jupyter Notebook:
 jupyter notebook
 
-Usage
+## Usage
 To use this project:
 
 Open the Jupyter Notebook.
@@ -45,7 +45,7 @@ For a more interactive interface, you can use Streamlit:
 streamlit run app.py
 
 
-Contributing
+## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 
@@ -55,7 +55,7 @@ Commit your Changes (git commit -m 'Add some AmazingFeature').
 Push to the Branch (git push origin feature/AmazingFeature).
 Open a Pull Request.
 
-Contact
+## Contact
 Shivam Atale - sammyatale1431@gmail.com
 
 LinkedIn: Shivam Atale
