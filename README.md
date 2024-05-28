@@ -8,7 +8,6 @@ A project using Jupyter Notebook and Python to detect whether an SMS message is 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Description
@@ -21,7 +20,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```sh or your terminal
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/sammyatale/SMS-spam-detection.git
 
 cd your-repo
 python -m venv env
